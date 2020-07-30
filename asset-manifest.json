@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Vkoontookte/static/css/main.8221992a.chunk.css",
-    "main.js": "/Vkoontookte/static/js/main.b7d5ef30.chunk.js",
-    "main.js.map": "/Vkoontookte/static/js/main.b7d5ef30.chunk.js.map",
-    "runtime-main.js": "/Vkoontookte/static/js/runtime-main.ac849d66.js",
-    "runtime-main.js.map": "/Vkoontookte/static/js/runtime-main.ac849d66.js.map",
-    "static/js/2.b01aae44.chunk.js": "/Vkoontookte/static/js/2.b01aae44.chunk.js",
-    "static/js/2.b01aae44.chunk.js.map": "/Vkoontookte/static/js/2.b01aae44.chunk.js.map",
-    "index.html": "/Vkoontookte/index.html",
-    "precache-manifest.9a34ab49eca44ffac200ff6143432424.js": "/Vkoontookte/precache-manifest.9a34ab49eca44ffac200ff6143432424.js",
-    "service-worker.js": "/Vkoontookte/service-worker.js",
-    "static/css/main.8221992a.chunk.css.map": "/Vkoontookte/static/css/main.8221992a.chunk.css.map",
-    "static/js/2.b01aae44.chunk.js.LICENSE.txt": "/Vkoontookte/static/js/2.b01aae44.chunk.js.LICENSE.txt",
-    "static/media/Spinner-1s-200px.svg": "/Vkoontookte/static/media/Spinner-1s-200px.7cbb439d.svg"
+    "main.css": "/Vkoontukte/static/css/main.2af8af41.chunk.css",
+    "main.js": "/Vkoontukte/static/js/main.214fc462.chunk.js",
+    "main.js.map": "/Vkoontukte/static/js/main.214fc462.chunk.js.map",
+    "runtime-main.js": "/Vkoontukte/static/js/runtime-main.fd9f86f6.js",
+    "runtime-main.js.map": "/Vkoontukte/static/js/runtime-main.fd9f86f6.js.map",
+    "static/js/2.a0ebed6a.chunk.js": "/Vkoontukte/static/js/2.a0ebed6a.chunk.js",
+    "static/js/2.a0ebed6a.chunk.js.map": "/Vkoontukte/static/js/2.a0ebed6a.chunk.js.map",
+    "index.html": "/Vkoontukte/index.html",
+    "precache-manifest.dee625f07495a325ea212fcecc694c99.js": "/Vkoontukte/precache-manifest.dee625f07495a325ea212fcecc694c99.js",
+    "service-worker.js": "/Vkoontukte/service-worker.js",
+    "static/css/main.2af8af41.chunk.css.map": "/Vkoontukte/static/css/main.2af8af41.chunk.css.map",
+    "static/js/2.a0ebed6a.chunk.js.LICENSE.txt": "/Vkoontukte/static/js/2.a0ebed6a.chunk.js.LICENSE.txt",
+    "static/media/VK_Monochrome_Logo.png": "/Vkoontukte/static/media/VK_Monochrome_Logo.80871c33.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac849d66.js",
-    "static/js/2.b01aae44.chunk.js",
-    "static/css/main.8221992a.chunk.css",
-    "static/js/main.b7d5ef30.chunk.js"
+    "static/js/runtime-main.fd9f86f6.js",
+    "static/js/2.a0ebed6a.chunk.js",
+    "static/css/main.2af8af41.chunk.css",
+    "static/js/main.214fc462.chunk.js"
   ]
 }
