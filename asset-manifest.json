@@ -1,6 +1,7 @@
 {
   "files": {
     "main.css": "/Vkoontukte/static/css/main.667fb65b.chunk.css",
+<<<<<<< HEAD
     "main.js": "/Vkoontukte/static/js/main.41ca41d1.chunk.js",
     "main.js.map": "/Vkoontukte/static/js/main.41ca41d1.chunk.js.map",
     "runtime-main.js": "/Vkoontukte/static/js/runtime-main.fd9f86f6.js",
@@ -12,12 +13,31 @@
     "service-worker.js": "/Vkoontukte/service-worker.js",
     "static/css/main.667fb65b.chunk.css.map": "/Vkoontukte/static/css/main.667fb65b.chunk.css.map",
     "static/js/2.01d704f2.chunk.js.LICENSE.txt": "/Vkoontukte/static/js/2.01d704f2.chunk.js.LICENSE.txt",
+=======
+    "main.js": "/Vkoontukte/static/js/main.27798ef5.chunk.js",
+    "main.js.map": "/Vkoontukte/static/js/main.27798ef5.chunk.js.map",
+    "runtime-main.js": "/Vkoontukte/static/js/runtime-main.fd9f86f6.js",
+    "runtime-main.js.map": "/Vkoontukte/static/js/runtime-main.fd9f86f6.js.map",
+    "static/js/2.003cd83b.chunk.js": "/Vkoontukte/static/js/2.003cd83b.chunk.js",
+    "static/js/2.003cd83b.chunk.js.map": "/Vkoontukte/static/js/2.003cd83b.chunk.js.map",
+    "index.html": "/Vkoontukte/index.html",
+    "precache-manifest.5ed108fe089928f274cfbe49abef2924.js": "/Vkoontukte/precache-manifest.5ed108fe089928f274cfbe49abef2924.js",
+    "service-worker.js": "/Vkoontukte/service-worker.js",
+    "static/css/main.667fb65b.chunk.css.map": "/Vkoontukte/static/css/main.667fb65b.chunk.css.map",
+    "static/js/2.003cd83b.chunk.js.LICENSE.txt": "/Vkoontukte/static/js/2.003cd83b.chunk.js.LICENSE.txt",
+>>>>>>> master
     "static/media/Search_header.css": "/Vkoontukte/static/media/search.60650b83.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fd9f86f6.js",
+<<<<<<< HEAD
     "static/js/2.01d704f2.chunk.js",
     "static/css/main.667fb65b.chunk.css",
     "static/js/main.41ca41d1.chunk.js"
+=======
+    "static/js/2.003cd83b.chunk.js",
+    "static/css/main.667fb65b.chunk.css",
+    "static/js/main.27798ef5.chunk.js"
+>>>>>>> master
   ]
 }
