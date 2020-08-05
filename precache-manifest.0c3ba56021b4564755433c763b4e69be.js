@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f3cdd181834c5823a879d499f9a9fe4",
+    "revision": "a47542fb817491d8371f14361401fb7d",
     "url": "/Vkoontukte/index.html"
   },
   {
-    "revision": "14fce0fc8df86a0ba095",
+    "revision": "338aae7a0149bd9acf9d",
     "url": "/Vkoontukte/static/css/main.5a6d58f6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Vkoontukte/static/js/2.3bd666d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "14fce0fc8df86a0ba095",
-    "url": "/Vkoontukte/static/js/main.26ba3304.chunk.js"
+    "revision": "338aae7a0149bd9acf9d",
+    "url": "/Vkoontukte/static/js/main.da291a4f.chunk.js"
   },
   {
     "revision": "1c6ad6d0ad1525192c55",
