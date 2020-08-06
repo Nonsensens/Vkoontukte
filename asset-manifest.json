@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Vkoontukte/static/css/main.dda25c1d.chunk.css",
-    "main.js": "/Vkoontukte/static/js/main.762b3511.chunk.js",
-    "main.js.map": "/Vkoontukte/static/js/main.762b3511.chunk.js.map",
+    "main.js": "/Vkoontukte/static/js/main.5fdcab17.chunk.js",
+    "main.js.map": "/Vkoontukte/static/js/main.5fdcab17.chunk.js.map",
     "runtime-main.js": "/Vkoontukte/static/js/runtime-main.fd9f86f6.js",
     "runtime-main.js.map": "/Vkoontukte/static/js/runtime-main.fd9f86f6.js.map",
     "static/js/2.f80a1864.chunk.js": "/Vkoontukte/static/js/2.f80a1864.chunk.js",
     "static/js/2.f80a1864.chunk.js.map": "/Vkoontukte/static/js/2.f80a1864.chunk.js.map",
     "index.html": "/Vkoontukte/index.html",
-    "precache-manifest.48104a091bf1a5bc5ff22d6afc671a26.js": "/Vkoontukte/precache-manifest.48104a091bf1a5bc5ff22d6afc671a26.js",
+    "precache-manifest.1d118174439d8f02ce6f44745cffed63.js": "/Vkoontukte/precache-manifest.1d118174439d8f02ce6f44745cffed63.js",
     "service-worker.js": "/Vkoontukte/service-worker.js",
     "static/css/main.dda25c1d.chunk.css.map": "/Vkoontukte/static/css/main.dda25c1d.chunk.css.map",
     "static/js/2.f80a1864.chunk.js.LICENSE.txt": "/Vkoontukte/static/js/2.f80a1864.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fd9f86f6.js",
     "static/js/2.f80a1864.chunk.js",
     "static/css/main.dda25c1d.chunk.css",
-    "static/js/main.762b3511.chunk.js"
+    "static/js/main.5fdcab17.chunk.js"
   ]
 }
